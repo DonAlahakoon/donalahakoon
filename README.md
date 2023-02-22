@@ -1,16 +1,15 @@
-### Hello World 🌎 I'm Don🧔 (aka Rashitha)
+### Hello World 🌎 I'm Rashitha🧔 (aka Don)
 
 <br>
 
 
 - 🔭 I’m currently working on two projects a Distributed system and Mobile Application
 - 🌱 I’m currently learning DevOps practices
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Linkedin "Rashitha Alahakoon"
 - 😄 Pronouns: Don
-- ⚡ Fun fact: Roses are red and violet are blue ...
+- ⚡ Fun fact: Roses are red and violet are blue but I can't rhyme😏
 <br>
 
 <!--![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donalahakoon&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
