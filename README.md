@@ -62,3 +62,5 @@
   
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+<h3>Awards and certifications</h3>
+<img src="assets/aws-knowledge-cloud-essentials.png" width="150"/>
