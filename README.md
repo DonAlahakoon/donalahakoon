@@ -1,7 +1,7 @@
 <div align= "center">
 <h2>Hello World 🌎 I'm Rashitha🧔 (aka Don)</h2> 
   <div style="text-align: left; display: inline-block;">
-   🔭 I’m currently working on two projects a Distributed system and Mobile Application<br>
+   🔭 I’m currently working on my research and final year project<br>
   🌱 I’m currently learning DevOps practices <br>
   📫 How to reach me: Linkedin "Rashitha Alahakoon" <br>
    😄 Pronouns: Don<br>
