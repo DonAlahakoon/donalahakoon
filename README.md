@@ -13,7 +13,6 @@
 <br>
 
 <!--![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=donalahakoon&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donalahakoon&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
@@ -21,14 +20,7 @@
 <div align="center">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donalahakoon&label=Profile%20views&color=0e75b6&style=flat" alt="donalahakoon" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donalahakoon&theme=radical" alt="donalahakoon" /></a> </p>
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donalahakoon&langs_count=10&layout=compact&theme=radical" alt="donalahakoon" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donalahakoon&hide=contribs,prs&count_private=true&show_icons=true&theme=radical" alt="donalahakoon" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donalahakoon&theme=radical" alt="donalahakoon" /></p>
 
@@ -67,4 +59,5 @@
   <img src="assets/aws-knowledge-cloud-essentials.png" width="150"/>
   <img src="assets/container-kubernetes-essentials-v2.png" width="150"/>
 </p>
-
+<!-- Page views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donalahakoon&label=Profile%20views&color=0e75b6&style=flat" alt="donalahakoon" /> </p>
