@@ -2,7 +2,7 @@
 <h2>Hello World 🌎 I'm Rashitha🧔 (aka Don)</h2> 
   <div style="text-align: left; display: inline-block;">
    🔭 I’m currently working on my research and final year project<br>
-  🌱 I’m currently learning DevOps practices <br>
+  🌱 Enthusiastic about learning DevOps practices <br>
   📫 How to reach me: Linkedin "Rashitha Alahakoon" <br>
    😄 Pronouns: Don<br>
    ⚡ Fun fact: Roses are red and violet are blue but I can't rhyme😏<br>
